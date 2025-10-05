@@ -29,6 +29,8 @@
     "@payloadcms/db-d1-sqlite": "3.58.0",
     "@payloadcms/next": "3.58.0",
     "@payloadcms/payload-cloud": "3.58.0",
+    "@payloadcms/plugin-ecommerce": "^3.58.0",
+    "@payloadcms/plugin-seo": "^3.58.0",
     "@payloadcms/richtext-lexical": "3.58.0",
     "@payloadcms/storage-r2": "3.58.0",
     "@payloadcms/ui": "3.58.0",
